@@ -1,6 +1,6 @@
 <template>
   <div>
-    首页
+    新闻详情页
   </div>
 </template>
 <script>
@@ -11,3 +11,4 @@ export default {
 <style lang="scss" scoped>
 
 </style>
+
